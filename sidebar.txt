@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[avd:home|Door43 (avd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-avd|d43-avd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-avd/archive/master.zip|d43-avd.zip]]
+
+**Recent Changes**
+{{changes>ns = avd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/avd|Ethnologue data]]
+
